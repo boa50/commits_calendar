@@ -15,4 +15,4 @@ After that you could using the function `plot_calendar` passing a dataframe with
 
 It would plot something like this
 
-![Commits Calendar](https://github.com/boa50/commits_calendar/img/calendar.png "Commits Calendar")
+![Commits Calendar](https://github.com/boa50/commits_calendar/blob/master/img/calendar.png "Commits Calendar")
