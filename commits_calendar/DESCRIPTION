@@ -1,0 +1,10 @@
+Package: commits.calendar
+Type: Package
+Title: Plots a commits calendar like GitHub's
+Version: 1.0
+Date: 2023-03-09
+Author: Bruno Oliveira de Albuquerque
+Maintainer: Bruno Oliveira de Albuquerque <bruno.albuquerque50@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: MIT
+Depends: ggplot2, dplyr, lubridate
