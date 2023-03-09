@@ -8,3 +8,4 @@ Maintainer: Bruno Oliveira de Albuquerque <bruno.albuquerque50@gmail.com>
 Description: More about what it does (maybe more than one line)
 License: MIT
 Depends: ggplot2, dplyr, lubridate
+RoxygenNote: 7.2.3
