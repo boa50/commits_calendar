@@ -5,7 +5,7 @@ R package used to plot a commits calendar somehow like GitHub's
 ### How to install
 Using the devtools package, you could run
 ```R
-devtools::install_github('https://github.com/boa50/commits_calendar/commits_calendar')
+devtools::install_github("https://github.com/boa50/commits_calendar", subdir = "commits_calendar")
 ```
 
 ### How to use
